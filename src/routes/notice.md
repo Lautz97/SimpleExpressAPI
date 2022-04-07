@@ -1,0 +1,1 @@
+aggiungere le nuove routes nel file di configurazione del server
